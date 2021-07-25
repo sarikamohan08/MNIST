@@ -1,2 +1,2 @@
 # MNIST
-Exploring MNIST dataset using various CNN architectures 
+Exploring MNIST dataset by various CNN architectures 
